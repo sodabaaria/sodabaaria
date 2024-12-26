@@ -1,5 +1,12 @@
 # 💫 About Me:
-     Iam Sodaba Aria, a Software Engineer.<br>🔭 I’m currently working on a ISP Management system project in java <br>👀 I’m interested in growing as a Senior Software Engineer.<br>🌱 I’m currently learning Advanced data analytics.<br>💬 Ask me about PHP , Laravel, Python Django, Java, Mobile development, ERP, React JS, Node JS, Next JS<br>📫 You can contact me at sodabaaria1234@gmail.com<br>💞️ I’m looking to collaborate on ...<br>⚡ Fun fact: I am an experienced full-stack developer.<br>
+     Iam Sodaba Aria, a Software Engineer.<br>
+     🔭 I’m currently working on a ISP Management system project in java <br>
+     👀 I’m interested in growing as a Senior Software Engineer.<br>
+     🌱 I’m currently learning Advanced data analytics.<br>
+     💬 Ask me about PHP , Laravel, Python Django, Java, Mobile development, ERP, React JS, Node JS, Next JS<br>
+     📫 You can contact me at sodabaaria1234@gmail.com<br>
+     💞️ I’m looking to collaborate on ...<br>
+     ⚡ Fun fact: I am an experienced full-stack developer.<br>
 
 
 ## 🌐 Socials:
